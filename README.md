@@ -12,14 +12,8 @@ Project flow:
     b. Data type identification
   
 2. Feature engineering:
-
-    a. Ridge, Lasso regression
   
-    b. Cross Validation
-  
-    c. Boostrap
-  
-    d. Feature selection
+    a. Feature selection
   
   
 3. Model testing & tunning
@@ -29,5 +23,11 @@ Project flow:
     b. compare MSE
   
     c. Regularization
+    
+    d. Boostrap
+    
+    e. Cross Validation
+    
+    f. Ridge, Lasso regression
 
 4. Prediction
