@@ -12,17 +12,10 @@ Project flow:
     a. Missing value imputation
   
     b. Data type identification
-<<<<<<< HEAD
     
 3. Outlier:
 
 4. Dummify:
-=======
-  
-2. Feature engineering:
-  
-    a. Feature selection
->>>>>>> 41fc8c082d39878016fb23f2737062a00ccdd63f
   
 5. Feature engineering:
 
@@ -34,22 +27,11 @@ Project flow:
     
     b. Grid search
   
-6. Model testing & tunning
+7. Model testing & tunning
 
     a. Ridge, Lasso, eNet
   
     b. Tree
   
-<<<<<<< HEAD
-7. Prediction
-=======
-    c. Regularization
-    
-    d. Boostrap
-    
-    e. Cross Validation
-    
-    f. Ridge, Lasso regression
+8. Prediction
 
-4. Prediction
->>>>>>> 41fc8c082d39878016fb23f2737062a00ccdd63f
