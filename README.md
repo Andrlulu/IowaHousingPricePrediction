@@ -5,29 +5,32 @@ Training data set contains 1460 rows and 81 columns.
 
 Project flow:
 
-1. Data cleaning:
+1. DEA
+
+2. Data cleaning:
 
     a. Missing value imputation
   
     b. Data type identification
-  
-2. Feature engineering:
+    
+3. Outlier:
 
-    a. Ridge, Lasso regression
+4. Dummify:
   
-    b. Cross Validation
-  
-    c. Boostrap
-  
-    d. Feature selection
-  
-  
-3. Model testing & tunning
+5. Feature engineering:
 
-    a. Train and test
-  
-    b. compare MSE
-  
-    c. Regularization
+    a. Add ratio columns
+    
+6. Pre Modeling:
 
-4. Prediction
+    a. Split training into training and testing data set
+    
+    b. Grid search
+  
+6. Model testing & tunning
+
+    a. Ridge, Lasso, eNet
+  
+    b. Tree
+  
+7. Prediction
