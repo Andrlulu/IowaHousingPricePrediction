@@ -1,4 +1,10 @@
 # Housing_Price_Prediction
+
+Kaggle competiton:
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+
+competiton rank: top 14.1%
+
 Implementing fundamental machine learning technique to predict Boston housing price based on 80 variables
 
 Training data set contains 1460 rows and 81 columns.
